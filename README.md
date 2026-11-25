@@ -22,7 +22,7 @@ Each skill is self-contained: a `SKILL.md` entry point plus the underlying promp
 Drop the four skill folders into `~/.claude/skills/`:
 
 ```bash
-git clone https://github.com/fortytwode/ai-driven-creatives-skill-pack.git
+git clone https://github.com/rocketshiphq/ai-driven-creatives-skill-pack.git
 cp -r ai-driven-creatives-skill-pack/{hook-maker,script-maker,visual-director,creative-curator} ~/.claude/skills/
 ```
 
